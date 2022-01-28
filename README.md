@@ -2,7 +2,7 @@
 
 | Target pathogen | Full or Segmented | # of sequences | Links to .fasta files | Primer sets   |  
 | --------------- | ----------------- | --------------- | -------------------- | ------------- |
-| [Zika Virus (ZIKV)](https://en.wikipedia.org/wiki/Zika_virus) | Full 96|original-[aligned](aligned_sequences/zika.fasta) | [MSSPE](primer_sets/zika_msspe_primers.csv)  -  New |
+| [Zika Virus (ZIKV)](https://en.wikipedia.org/wiki/Zika_virus) | Full| 96|original-[aligned](aligned_sequences/zika.fasta) | [MSSPE](primer_sets/zika_msspe_primers.csv)  -  New |
 | [Bourbon virus (BRBV)](https://en.wikipedia.org/wiki/Bourbon_virus)| segment 1   | 3               | [original](original_sequences/BRBV-SEG1.fasta)  -   [aligned](aligned_sequences/BRBV-SEG1.fasta) | New |
 | BRBV | segment 2   | 3               | [original](original_sequences/BRBV-SEG2.fasta)  -   [aligned](aligned_sequences/BRBV-SEG2.fasta) | New |
 | BRBV | segment 3   | 3               | [original](original_sequences/BRBV-SEG3.fasta)  -   [aligned](aligned_sequences/BRBV-SEG3.fasta) | New |
